@@ -47,7 +47,7 @@ My name is Idana and I'm a frontend developer from  <b>Buenos Aires, Argentina. 
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idanawagner&radius=16&theme=nightowl&area=true&order=5" height="200" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanawagner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="157" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanawagner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <img src="https://raw.githubusercontent.com/idanawagner/idanawagner/output/snake.svg" alt="Snake animation" />
 
