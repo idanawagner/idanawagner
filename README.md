@@ -65,22 +65,12 @@
 ###
 <h4 align="left">Aquí encontrarás una variedad de proyectos en los que he estado trabajando.</h4>
 <h4 align="left">¡Espero que te gusten! 😊</h4>
-```
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=AdministradorPP&theme=nightowl&hide_border=false)
-](https://github.com/idanawagner/AdministradorPP)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=babyBom&theme=nightowl&hide_border=false)
-](https://github.com/idanawagner/babyBom)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=rebelStickers&theme=nightowl&hide_border=false)
-](https://github.com/idanawagner/rebelStickers)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=coursesAdministrator&theme=nightowl&hide_border=false)
-](https://github.com/idanawagner/coursesAdministrator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=proyectoInformatico-grupo17&theme=nightowl&hide_border=false)
-](https://github.com/idanawagner/proyectoInformatico-grupo17)
 
 
-```markdown
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=AdministradorPP&theme=nightowl&hide_border=false)](https://github.com/idanawagner/AdministradorPP) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=coursesAdministrator&theme=nightowl&hide_border=false)](https://github.com/idanawagner/coursesAdministrator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=rebelStickers&theme=nightowl&hide_border=false)](https://github.com/idanawagner/rebelStickers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=babyBom&theme=nightowl&hide_border=false)](https://github.com/idanawagner/babyBom)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=proyectoInformatico-grupo17&theme=nightowl&hide_border=false)](https://github.com/idanawagner/proyectoInformatico-grupo17) 
