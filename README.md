@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">## Sobre mí 😊<br><br>- 🎓 Graduada de la Tecnicatura Universitaria en Tecnologías de Programación.<br>- 💼 Trabajo como desarrolladora frontend en Neocomplexx Group S.A.<br>- 🌱 Estoy aprendiendo Inglés.</h4>
+<h4 align="left">Sobre mí 😊<br><br>- 🎓 Graduada de la Tecnicatura Universitaria en Tecnologías de Programación.<br>- 💼 Trabajo como desarrolladora frontend en Neocomplexx Group S.A.<br>- 🌱 Estoy aprendiendo Inglés.</h4>
 
 ###
 
@@ -35,23 +35,14 @@
 </div>
 
 ###
-
-<h4 align="left">Aquí encontrarás una variedad de proyectos en los que he estado trabajando.</h4>
-
-###
-
 <br clear="both">
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idanawagner&radius=16&theme=redical&area=true&order=5" height="215" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanawagner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="157" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/idanawagner/idanawagner/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -72,3 +63,24 @@
 </div>
 
 ###
+<h4 align="left">Aquí encontrarás una variedad de proyectos en los que he estado trabajando.</h4>
+<h4 align="left">¡Espero que te gusten! 😊</h4>
+```
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=AdministradorPP&theme=nightowl&hide_border=false)
+](https://github.com/idanawagner/AdministradorPP)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=babyBom&theme=nightowl&hide_border=false)
+](https://github.com/idanawagner/babyBom)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=rebelStickers&theme=nightowl&hide_border=false)
+](https://github.com/idanawagner/rebelStickers)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=coursesAdministrator&theme=nightowl&hide_border=false)
+](https://github.com/idanawagner/coursesAdministrator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=proyectoInformatico-grupo17&theme=nightowl&hide_border=false)
+](https://github.com/idanawagner/proyectoInformatico-grupo17)
+
+
+```markdown
