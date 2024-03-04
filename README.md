@@ -2,20 +2,21 @@
 
 My name is Idana and I'm a frontend developer from  <b>Buenos Aires, Argentina. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png" width="17" /></b> </p>
 
+
 ## About me 😊
 
 <h4 align="left">
     
-    - 🎓 Graduated from the University Degree in Programming Technologies.
+    * 🎓 Graduated from the University Degree in Programming Technologies.
 
-    - 💼 I work as a frontend developer at Neocomplexx Group S.A.
+    * 💼 I work as a frontend developer at Neocomplexx Group S.A.
 
-    - 🌱 I'm learning English.
-<br>
+    * 🌱 I'm learning English.
+
 
 ## I code with
-
-<div align="left">
+###
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
@@ -42,9 +43,6 @@ My name is Idana and I'm a frontend developer from  <b>Buenos Aires, Argentina. 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
 </div>
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -53,9 +51,7 @@ My name is Idana and I'm a frontend developer from  <b>Buenos Aires, Argentina. 
 </div>
 <img src="https://raw.githubusercontent.com/idanawagner/idanawagner/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h3 align="left">📫 You can contact me at 👇</h3>
+## 📫 You can contact me at 👇
 
 ###
 
@@ -71,9 +67,8 @@ My name is Idana and I'm a frontend developer from  <b>Buenos Aires, Argentina. 
   </a>
 </div>
 
+## Here you'll find a variety of projects I've been working on.
 ###
-
-<h3 align="left">Here you'll find a variety of projects I've been working on.
 <h3 align="left">I hope you like them! 😊</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=AdministradorPP&theme=nightowl&hide_border=false)](https://github.com/idanawagner/AdministradorPP)
