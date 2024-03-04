@@ -45,7 +45,7 @@ My name is Idana and I'm a frontend developer from  <b>Buenos Aires, Argentina. 
 </div>
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idanawagner&radius=16&theme=nightowl&area=true&order=5" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanawagner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
