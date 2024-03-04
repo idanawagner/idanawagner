@@ -1,10 +1,19 @@
-<h2 align="left">¡Hola! 👋  Mi nombre es Idana y soy desarrolladora frontend!</h2>
+<h1 align="left">Hi! 👋 </h1>
 
-###
+My name is Idana and I'm a frontend developer from  <b>Buenos Aires, Argentina. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png" width="17" /></b> </p>
 
-<h4 align="left">Sobre mí 😊<br><br>- 🎓 Graduada de la Tecnicatura Universitaria en Tecnologías de Programación.<br>- 💼 Trabajo como desarrolladora frontend en Neocomplexx Group S.A.<br>- 🌱 Estoy aprendiendo Inglés.</h4>
+## About me 😊
 
-###
+<h4 align="left">
+    
+    - 🎓 Graduated from the University Degree in Programming Technologies.
+
+    - 💼 I work as a frontend developer at Neocomplexx Group S.A.
+
+    - 🌱 I'm learning English.
+<br>
+
+## I code with
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -35,18 +44,18 @@
 </div>
 
 ###
+
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idanawagner&radius=16&theme=redical&area=true&order=5" height="215" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idanawagner&radius=16&theme=nightowl&area=true&order=5" height="215" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanawagner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="157" alt="languages graph"  />
 </div>
 <img src="https://raw.githubusercontent.com/idanawagner/idanawagner/output/snake.svg" alt="Snake animation" />
 
-
 ###
 
-<h3 align="left">📫 Puedes contactarme en 👇</h3>
+<h3 align="left">📫 You can contact me at 👇</h3>
 
 ###
 
@@ -63,14 +72,15 @@
 </div>
 
 ###
-<h2 align="left">Aquí encontrarás una variedad de proyectos en los que he estado trabajando.</h2>
-<h4 align="left">¡Espero que te gusten! 😊</h4>
 
+<h3 align="left">Here you'll find a variety of projects I've been working on.
+<h3 align="left">I hope you like them! 😊</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=AdministradorPP&theme=nightowl&hide_border=false)](https://github.com/idanawagner/AdministradorPP) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=AdministradorPP&theme=nightowl&hide_border=false)](https://github.com/idanawagner/AdministradorPP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=coursesAdministrator&theme=nightowl&hide_border=false)](https://github.com/idanawagner/coursesAdministrator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=rebelStickers&theme=nightowl&hide_border=false)](https://github.com/idanawagner/rebelStickers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=babyBom&theme=nightowl&hide_border=false)](https://github.com/idanawagner/babyBom)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=proyectoInformatico-grupo17&theme=nightowl&hide_border=false)](https://github.com/idanawagner/proyectoInformatico-grupo17) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanawagner&repo=proyectoInformatico-grupo17&theme=nightowl&hide_border=false)](https://github.com/idanawagner/proyectoInformatico-grupo17)
+
