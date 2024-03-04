@@ -63,7 +63,7 @@
 </div>
 
 ###
-<h4 align="left">Aquí encontrarás una variedad de proyectos en los que he estado trabajando.</h4>
+<h2 align="left">Aquí encontrarás una variedad de proyectos en los que he estado trabajando.</h2>
 <h4 align="left">¡Espero que te gusten! 😊</h4>
 
 
